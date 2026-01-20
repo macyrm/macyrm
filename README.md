@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Macy Moore
+# UVA Data Science Class of 2028
 <!--
 **macyrm/macyrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
